@@ -1,0 +1,144 @@
+body {
+    margin: 0px;
+    text-align: center;
+    color: #40514E;
+}
+.top_container {
+    background-color: azure;
+    position: relative;
+    padding-top:143px;
+}
+h1 {
+    line-height:2;
+    margin: 50px auto 0 auto;
+    font-family: "Courgette", serif;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+p {
+    font-family: "Kalam", serif;
+}
+.middle_container {
+
+}
+.bottom-container{
+    background-color: #66BFBF;
+    text-align: center;
+    padding:30px;
+}
+.bottom-container:hover {
+    background: #2bc4ad;
+    text-decoration: none;
+}
+.pro {
+    text-decoration: underline;
+}
+.top-cloud {
+    position: absolute;
+    top: 120px;
+    right:450px;
+}
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+}
+.Python-img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+}
+.Web-development-img {
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin-left: 30px;
+}
+.profile-gif {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.profile {
+    margin-top: 30px;
+}
+.description {
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+h2 {
+    font-size: 2rem;
+    font-family: "Ubuntu", serif;
+    font-weight: normal;
+    color: #66BFBF;
+}
+h3 {
+    font-family: "Mali", serif;
+    color: #11999E;
+}
+a {
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration:none;
+}
+a:hover {
+    color: white;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+}
+hr {
+    border: none;
+    border-top: 5px dotted ;
+    width: 40px;
+    color: gainsboro;
+    margin: 60px auto 60px auto;
+}
+.contact-me {
+    margin-bottom: 50px;
+    margin-top: 50px
+}
+.btn {
+    margin-top: 30px;
+    background-color: #66BFBF;
+    width: 150px;
+    text-align: center;
+    border-radius: 8px;
+    margin-left: 650px;
+    padding: 10px 10px 10px 10px;
+    }
+.btn-text {
+    color: white;
+    font-family: Arial;
+    text-decoration: none;
+}
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.middle-container{
+    margin-top: 70px;
+}
+.name {
+    font-size: 15px;
+    color: #EAF6F6;
+    padding-top: 10px;
+}
+.contact {
+    padding:100px 0 0;
+}
+.contact-body {
+    background-color: azure;
+}
+.btn-home {
+    margin-top: 200px;
+    background-color: #66BFBF;
+    width: 150px;
+    text-align: center;
+    border-radius: 8px;
+    margin-left: 650px;
+    padding: 10px 10px 10px 10px;
+}
